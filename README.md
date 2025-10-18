@@ -9,7 +9,7 @@ The website features smooth animations, typing effects, responsive design, and a
 
 ## 🔗 Live Demo
 You can preview the portfolio locally by opening `index.html` in a modern browser.  
-Or access the online demo here: [Live Demo](saboo24.github.io/Sabo/)
+Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
 
 ---
 
