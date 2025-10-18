@@ -1,9 +1,15 @@
-# 🌌 Amine Portfolio Website
-
 ![Portfolio Screenshot](cp.png)
+
+# 🌌 Amine Portfolio Website
 
 Welcome to my personal **portfolio website**, a modern showcase of my projects, skills, and contact information.  
 The website features smooth animations, typing effects, responsive design, and a clean dark red theme.
+
+---
+
+## 🔗 Live Demo
+You can preview the portfolio locally by opening `index.html` in a modern browser.  
+Or access the online demo here: [Live Demo](saboo24.github.io/Sabo/)
 
 ---
 
