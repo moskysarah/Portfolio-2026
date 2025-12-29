@@ -1,4 +1,4 @@
-![Portfolio Screenshot](cp.png)
+
 
 # 🌌 sarah Portfolio Website
 
@@ -51,4 +51,4 @@ Or access the online demo here: [Live Demo](/)
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **Sarah Ngoya**
